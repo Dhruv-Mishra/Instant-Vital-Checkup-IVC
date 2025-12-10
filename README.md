@@ -1,9 +1,6 @@
 # I.V.C. (Instant Vital Checkup)
-![Original_timeline](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/5.png)
-![new_timeline](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/7.png)
-![future](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/8.png)
-![flaws](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/9.png)
-<!-- Recommendation: Use a sleek image of a computer vision overlay on a patient -->
+
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/e5729278-fc4c-4424-b972-ee5068c03806" />
 
 [![Hackathon](https://img.shields.io/badge/Event-RedBrick_Hacks_2022-red)](https://devpost.com/)
 [![Status](https://img.shields.io/badge/Status-Prototype-blue)]()
@@ -49,6 +46,10 @@ I.V.C. integrates into the hospital registration workflow. As the patient fills 
 2.  **Instant Reporting:** Vitals are calculated in real-time and appended to the patient's Electronic Medical Record (EMR).
 3.  **Computer Vision:** Utilizes anthropometric analysis and rPPG (Remote Photoplethysmography).
 
+![Original_timeline](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/5.png)
+![new_timeline](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/7.png)
+![future](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/8.png)
+![flaws](https://github.com/nksrivastavaa/Instant-Vital-Checkup-IVC-/blob/main/Canva_Images/9.png)
 ---
 
 ## ⚙️ System Architecture
